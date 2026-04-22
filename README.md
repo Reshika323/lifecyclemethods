@@ -35,6 +35,7 @@ Registeration Number :
 ```
 
 ## OUTPUT
+<img width="1917" height="1137" alt="image" src="https://github.com/user-attachments/assets/d39c89c7-d8ad-4f2f-9492-8694cc26249e" />
 
 
 
